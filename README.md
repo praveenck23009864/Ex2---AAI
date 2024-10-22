@@ -1,5 +1,5 @@
-<H3>Name:AADITHYAN R</H3>
-<H3>Register No:22000618</H3>
+<H3>Name:praveen ck</H3>
+<H3>Register No:212222243003</H3>
 <H3>Experiment 2</H3>
 
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
